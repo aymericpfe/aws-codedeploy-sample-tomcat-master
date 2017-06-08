@@ -20,7 +20,7 @@
 <html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Bespoke Suits for Dogs! (A sample app for CodeDeploy)</title>
+    <title>APPLICATION TEST (A sample app for CodeDeploy)</title>
     <meta name="viewport" content="initial-scale=1.0">
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
@@ -118,7 +118,7 @@
             <h3 class="panel-title">Free alterations</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
+            Don't let this happen to your pooch!
             Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
             <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
           </div>
